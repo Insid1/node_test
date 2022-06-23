@@ -1,0 +1,4 @@
+some test data
+to write into 
+text.txt
+added data to the end of the file!
